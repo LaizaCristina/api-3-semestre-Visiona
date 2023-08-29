@@ -42,7 +42,7 @@ Uma interface permitindo que os usúarios, sejam, criados, visualizados, editado
  
  :white_check_mark: [SPRINT 4] - 15/05/2023 à 04/06/2023 - <a href="https://github.com/4DeskGroup/API-2023.1/releases/tag/SPRINT4">Acesse o Release aqui</a>
  
- #### :white_large_square: Feira de Soluções - 13/06/2023 à 14/06/2023
+:white_check_mark: Feira de Soluções - 13/06/2023 à 14/06/2023
  
  # :bulb: Backlog
  <div align="left">
